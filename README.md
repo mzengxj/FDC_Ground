@@ -3,7 +3,8 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-
+### Download our Model
+https://huggingface.co/fish01xx/fdc_ground
 
 ### 🔹 Test on **ScreenSpot**
 
